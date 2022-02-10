@@ -1,7 +1,7 @@
-package org.example;
+package org.landivar;
 
-import org.example.graph.BFS;
-import org.example.graph.Tree;
+import org.landivar.graph.BFS;
+import org.landivar.graph.Tree;
 
 /**
  * Hello world!

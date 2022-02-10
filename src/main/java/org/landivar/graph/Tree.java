@@ -1,4 +1,4 @@
-package org.example.graph;
+package org.landivar.graph;
 
 import java.util.ArrayList;
 
